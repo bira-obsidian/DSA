@@ -1,0 +1,9 @@
+# Ignore Obsidian internal settings and plugins
+.obsidian/
+
+# Ignore temporary Google Drive sync directories
+.tmp.drivedownload/
+.tmp.driveupload/
+
+# Ignore database template views
+Untitled.base
